@@ -16,3 +16,4 @@ A setas de orientação, que irão movimentar o player pela extensão da rua, a 
 ![](https://github.com/mxtqn/Sweet_Race/blob/main/media/ComoJogar.png?raw=true)
 
 ## Sprites
+![](https://github.com/mxtqn/Sweet_Race/blob/main/media/Sprites.png?raw=true)
